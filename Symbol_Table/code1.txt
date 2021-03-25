@@ -1,0 +1,6 @@
+int a = 2 ;
+int b = 9 ;
+float c = 9.0 ;
+double d = 9 ;
+int add ( int d , float e ) {
+}
