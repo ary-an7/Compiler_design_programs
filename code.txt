@@ -1,0 +1,5 @@
+int a = 10 ;
+for ( float i = 1 ; i < 10 ; i + + ) {
+string s = "hello_bro." ;
+a+=1 ;
+} 
