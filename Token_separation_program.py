@@ -3,7 +3,7 @@ ids = []
 key_words = ['int','string','char','float','double']
 operators = ['+','-','*','/','=','<']
 punct = ['(',')', '{', '}' , '[' ,']',',']
-with open("program.txt") as t:
+with open("code.txt") as t:
     a=t.readlines()
     for t in a:
         tokens=tokens + (t.split(" "))
